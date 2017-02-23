@@ -1,0 +1,16 @@
+{
+  "name": "vscode-intellisense-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "jsdoc example.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdoc": "^3.4.3",
+    "ramda": "^0.23.0"
+  }
+}
